@@ -21,6 +21,7 @@
 }
 
 #content {
+  font-family: sans-serif;
   position: absolute;
   top: 1%;
   left: 0;
@@ -101,6 +102,7 @@
 }
 
 #imgTxt {
+  font-family: sans-serif;
   position: absolute;
   display: table;
   vertical-align: middle;
@@ -118,18 +120,20 @@
   right: 0;
   margin: auto;
   width: 70%;
-  max-width: 1000px;
-  height: 80%;
+  max-width: 950px;
+  height: 70%;
   border-radius: 10px;
   box-shadow: rgba(199, 199, 199, 0.616) 0px 5px 15px;
 }
 
 #Txt {
+  font-family: sans-serif;
   display: inline-block;
   font-size: 17px;
   width: 100%;
   text-align: center;
   color: white;
+  overflow: hidden;
 }
 
 #tmp {
